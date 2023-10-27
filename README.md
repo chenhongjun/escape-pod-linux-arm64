@@ -11,9 +11,11 @@ chmod +x ./run.sh
 ./run.sh
 ```
 3. 刚刚git clone下载的目录是用不了的，因为github限制了文件上传大小为100MB，所以可以找我要这4个大于100MB的文件的并替换：
-model.scorer
-OSKR-DDLServer-1.8.1.6051.ota
-PROD-DDLServer-1.8.1.6051.ota
-PROD-EscapePod-1.8.1.6051.ota
+```
+escapepod/model.scorer
+escapepod/ota/OSKR-DDLServer-1.8.1.6051.ota
+escapepod/ota/PROD-DDLServer-1.8.1.6051.ota
+escapepod/ota/PROD-EscapePod-1.8.1.6051.ota
+```
 
 要文件加QQ用QQ传输，QQ号:1769003060
