@@ -21,3 +21,5 @@ escapepod/ota/PROD-EscapePod-1.8.1.6051.ota
 ```
 
 要文件加QQ用QQ传输，QQ号:1769003060
+
+4. 实际安装过程中发现escapepod服务的运行依赖一些语音和ai的第三方动态库，可以自行网上查看安装方法
